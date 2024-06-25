@@ -48,6 +48,6 @@ The dashboard uses good practices (incl. creating a separate table to store DAX 
 
 
 
-**Dataset source:** https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting , own dataset
-**Cover image source:** https://pixabay.com/pl/photos/zbiory-handlowy-monitor-biznes-1863880/
+Dataset source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting , own/anonimized dataset<br>
+Cover image source: https://pixabay.com/pl/photos/zbiory-handlowy-monitor-biznes-1863880/
 
