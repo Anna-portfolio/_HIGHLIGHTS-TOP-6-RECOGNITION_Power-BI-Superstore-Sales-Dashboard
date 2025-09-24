@@ -1,5 +1,5 @@
 **SUPERSTORE SALES DASHBOARD**<br>
-**Nominated for the Top 6 submissions in a global Power BI competition organized by the current employer (ca. 3k participants in total)**<br>
+**Nominated for the Top 6 submissions in a global Power BI competition organized by the former employer (ca. 3k participants in total)**<br>
 Dashboard uploaded herein does not include any confidential data <br><br>
 
 ![novypro new 24071802](https://github.com/user-attachments/assets/300fc1ed-562b-4af3-bec6-ffe185598433)
