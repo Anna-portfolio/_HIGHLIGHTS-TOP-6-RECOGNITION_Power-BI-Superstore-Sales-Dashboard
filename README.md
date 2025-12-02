@@ -1,38 +1,53 @@
-**SUPERSTORE SALES DASHBOARD**<br>
-**Nominated for the Top 6 submissions in a global Power BI competition organized by the former employer (ca. 3k participants in total)**<br>
-Dashboard uploaded herein does not include any confidential data <br><br>
+# Superstore Sales Dashboard
+created by Anna Dudek @Anna-portfolio
+
+**Nominated for the Top 6 submissions in a global Power BI competition organized by the former employer  (ca. 3k participants in total)**
+
+Dashboard uploaded herein does not include any confidential data.<br>
 
 ![novypro new 24071802](https://github.com/user-attachments/assets/300fc1ed-562b-4af3-bec6-ffe185598433)
 
-<br><br>
-**Data Overview**<br>
-Table Measures Table: stores DAX measures in a separate table (good practice)<br>
-Table Dashboard Description: list of what was done in this project<br>
-Table Orders: insight into orders placed by the customers<br>
-Table People: list of persons in charge of given regions<br>
-Table Returns: details of returned orders<br>
-Additionally: a table for dates formatting<br>
+## Data Overview
 
-**Pages Overview**<br>
-Page #1 Cover: dashboard's cover with the title<br>
-Page #2 Dashboard Decription: an illustrative overview of what was done in this project (in a form of a separate dataset; over 100 actions done)<br>
-Page #3: Trends and YoY Change: insight into changes in sales, profit, orders, and customers volumes (incl. advanced DAX)<br>
-Page #4 Profit Overview: total profit analysis with a breakdown into categories, sales, regions and states<br>
-Page #5 Region Overview: detailed view of a chosen region, specifying profit, total quantity of sold items, and sum of profit by order date<br>
-Page #6 Orders - Top 5 States: data narrowed down to top 5 states, ranked by total order quantity<br>
-Page #7 Q&A: page including Q&A section, giving insight into the questions which may be asked in regard to the analysed dataset<br>
+- **Table Measures** — stores DAX measures in a separate table (good practice)  
+- **Table Dashboard Description** — list of what was done in this project  
+- **Table Orders** — insight into orders placed by the customers  
+- **Table People** — list of persons in charge of given regions  
+- **Table Returns** — details of returned orders  
+- **Additionally** — dates formatting  
 <br>
 
-**What was done in this Dashboard (selected)**<br>
-Advanced DAX, used i.a. for YoY % changes<br>
-Easy to use, interactive Page Navigation (flyout), allowing for browsing through pages and improving user experience<br>
-Conditional formatting for better visualization (font color, icons)<br>
-Bookmarks for unhiding additional visuals<br>
-A wide range of visuals, including, among many others: 100% stacked column chart, decomposition tree, funnel, scatter chart with clusters, dynamic textboxes, and slicers<br>
+## Pages Overview
 
-The dashboard uses good practices (incl. creating a separate table to store DAX measures, adjusting the names for specific visuals, using multiple pages to present data in a clear way). <br>
+- **Page #1 – Cover**: dashboard cover with the title  
+- **Page #2 – Dashboard Description**: overview of project actions (in a form of a separate dataset; over 100 steps)  
+- **Page #3 – Trends and YoY Change**: changes in sales, profit, orders, and customers (incl. advanced DAX)  
+- **Page #4 – Profit Overview**: profit analysis broken down by categories, sales, regions, and states  
+- **Page #5 – Region Overview**: detailed view of a selected region (profit, total quantity sold, profit by order date)  
+- **Page #6 – Orders – Top 5 States**: top 5 states ranked by total order quantity  
+- **Page #7 – Q&A**: page with frequently asked questions based on the dataset  
+<br>
 
+## What Was Done in This Dashboard (Selected)
 
+- Advanced DAX, including YoY % changes  
+- Interactive page navigation (flyout) to improve user experience  
+- Conditional formatting (font color, icons)  
+- Bookmarks used for unhiding additional visuals  
+- Wide range of visuals, including:  
+  - 100% stacked column chart  
+  - decomposition tree  
+  - funnel  
+  - scatter chart with clusters  
+  - dynamic textboxes  
+  - slicers  
+<br>
 
-Dataset source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting , own dataset<br>
-Cover image source: https://pixabay.com/pl/photos/biznes-informacja-ksi%C4%99gowo%C5%9B%C4%87-3528035/
+**Good practices applied:** separate table for DAX measures, clear naming of visuals, multi-page structure for readability.
+
+<br>
+
+## Dataset & Resources
+
+- Dataset source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting  + own dataset
+- Cover image source: https://pixabay.com/pl/photos/biznes-informacja-ksi%C4%99gowo%C5%9B%C4%87-3528035/ 
