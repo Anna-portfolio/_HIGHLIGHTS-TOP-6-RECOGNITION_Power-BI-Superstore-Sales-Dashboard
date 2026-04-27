@@ -9,10 +9,10 @@ created by Anna Dudek @Anna-portfolio
 - FactOrders - main fact table containing order-level data
 - DimCustomer - customer dimension table
 - DimProduct — product dimension table
-- DimGeography — geographic data
-- DimDate — date dimension (calendar table)
-- Measures — dedicated table storing DAX measures (best practice)
-- staging_orders (hidden) — staging table used for data preparation
+- DimGeography - geographic data
+- DimDate - date dimension (calendar table)
+- Measures - dedicated table storing DAX measures (best practice)
+- staging_orders (hidden) - staging table used for data preparation
 <br>
 
 ## Data Model Relationships
