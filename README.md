@@ -8,7 +8,7 @@ created by Anna Dudek @Anna-portfolio
 ## Data Model Overview
 - FactOrders - main fact table containing order-level data
 - DimCustomer - customer dimension table
-- DimProduct — product dimension table
+- DimProduct - product dimension table
 - DimGeography - geographic data
 - DimDate - date dimension (calendar table)
 - Measures - dedicated table storing DAX measures (best practice)
