@@ -6,6 +6,10 @@ created by Anna Dudek @Anna-portfolio
 # _v2 - overview:
 
 ## Data Model Overview
+
+<img width="1815" height="808" alt="2026-04-28 superstore model" src="https://github.com/user-attachments/assets/a59894ba-fdae-4bec-8478-501563e5943f" /><br>
+
+
 - FactOrders - main fact table containing order-level data
 - DimCustomer - customer dimension table
 - DimProduct - product dimension table
